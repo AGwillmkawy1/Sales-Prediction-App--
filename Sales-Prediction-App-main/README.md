@@ -32,8 +32,8 @@ You need Python3 on your system to setup this app. Then you can clone this repo 
 To begin using the Sales Prediction App, follow these steps:
 
 Clone the Repository:
-``````
-https://github.com/Newton23-nk/Sales-Prediction-App.git
+``````[
+https://github.com/AGwillmkawy1/Sales-Prediction-App--.git
 ``````
 # Install Dependencies:
 Install the required Python packages using the following command:
