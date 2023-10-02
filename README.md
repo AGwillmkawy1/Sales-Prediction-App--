@@ -10,11 +10,6 @@ The SalesForecastApp empowers inventory managers, supply chain managers, and sto
  This project was part of a comprehensive data analysis and machine learning project, where various steps such as data cleaning, data exploration, hypothesis testing, feature engineering, and model evaluation were performed to build robust forecasting models. The app showcases the final model and its predictions, making it a valuable tool for data-driven decision-making in the retail domain. The analysis and Modeling part can be accessed [here](https://github.com/AGwillmkawy1/Time-series-forecasting-updated)
 
  # App Interface
- ![Interface of the app](Images/Interface.png)
-
- ![Inputs](Images/Inputs.png)
- 
- ![Prediction](Images/Prediction.png)
  
  # Setup
 You need Python3 on your system to setup this app. Then you can clone this repo and being at the repo's root :: streamlit sales prediction app> ... follow the steps below:
