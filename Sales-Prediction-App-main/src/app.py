@@ -170,7 +170,7 @@ elif menu == "Troubleshooting":
 # Feedback and Support
 elif menu == "Feedback and Support":
     st.title("Feedback and Support")
-    st.write("We value your feedback! If you have any questions, feedback, or issues, feel free to reach out to us via email:  newtonkimathi20@gmail.com or by [creating an issue](https://github.com/Newton23-nk/Sales-Prediction-App/issues) on the GitHub repository.")
+    st.write("We value your feedback! If you have any questions, feedback, or issues, feel free to reach out to us via email:  engplaubert@gmail.com or by [creating an issue](https://github.com/AGwillmkawy1/Sales-Prediction-App--/issues) on the GitHub repository.")
     st.write("Connect With Me on LinkedIn:")
     st.write("[LinkedIn](https://www.linkedin.com/in/jean-plaubert-rukundo-932367225/)")
     st.write("Thank you for using the Sales Prediction App! We hope it provides valuable insights for your business decisions.")
